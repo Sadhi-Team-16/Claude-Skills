@@ -150,7 +150,6 @@ thoroughly research [topic]
 detailed research [topic]
 comprehensive research [topic]
 in-depth analysis of [topic]
-deep research કરો [topic]
 ```
 
 **What Claude does — 5 phases:**
@@ -202,7 +201,6 @@ think deeply about [topic]
 critically analyze [topic]
 thorough analysis of [topic]
 think step by step deeply [topic]
-deep thinking કરો [topic]           ← Gujarati trigger also works
 ```
 
 **What Claude does — 5 steps:**
@@ -352,13 +350,11 @@ deep research on [topic]
 do deep research on [topic]
 thoroughly research [topic]
 detailed research [topic]
-deep research કરો [topic]
 
 # Deep Thinking
 deep thinking about [topic]
 think deeply about [topic]
 critically analyze [topic]
-deep thinking કરો [topic]
 
 # Humanizer
 humanize this text: [paste text here]
