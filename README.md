@@ -150,7 +150,7 @@ thoroughly research [topic]
 detailed research [topic]
 comprehensive research [topic]
 in-depth analysis of [topic]
-deep research કરો [topic]           ← Gujarati trigger also works
+deep research કરો [topic]
 ```
 
 **What Claude does — 5 phases:**
