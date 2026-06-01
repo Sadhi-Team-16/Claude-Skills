@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[![Watch TechGVS Tutorial on YouTube](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch TechGVS Tutorial on YouTube](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/Fzbiwnwt_Rg)
 
 **▶ Click the thumbnail above to watch on YouTube**
 
